@@ -22,5 +22,5 @@ group:
 ```
 
 2. workflow
-* [workflow下载](workflows/Password-in-Yaml-File.alfredworkflow)
+* [workflow下载](workflows/Search-Password-in-Yaml-File.alfredworkflow)
 * 修改 workflow 环境变量 `PASSWORD_PATH` 为 password file 的位置
