@@ -22,5 +22,13 @@ group:
 ```
 
 2. workflow
-* [workflow下载](workflows/Search-Password-in-Yaml-File.alfredworkflow)
+* :rabbit: [workflow下载](workflows/Search-Password-in-Yaml-File.alfredworkflow)
 * 修改 workflow 环境变量 `PASSWORD_PATH` 为 password file 的位置
+
+## Github Url Convert to Raw
+
+[workflow下载](workflows/Github-Url-Convert-to-Raw.alfredworkflow)
+
+将纯文本格式的 github 文件转化为可以下载的 url。
+
+如将 `https://github.com/aikuyun/iterm2-zmodem/blob/master/iterm2-send-zmodem.sh` 转化为 `https://raw.githubusercontent.com/aikuyun/iterm2-zmodem/master/iterm2-send-zmodem.sh`。
