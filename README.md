@@ -35,6 +35,6 @@ group:
 
 ## [Upload clipboard PNG to Minio](img2url)
 
-3. cnblogs 博客园常用操作
+## [cnblogs 博客园常用操作](https://www.cnblogs.com/hiyang/p/13599482.html)
 :rabbit: [workflow下载](workflows/cnblogs.alfredworkflow)
 具体用法[点这里](https://www.cnblogs.com/hiyang/p/13599482.html)
